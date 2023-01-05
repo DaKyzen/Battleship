@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Battleship.Battleship-task-build-classes-java.main" target="15" />
+      <module name="Battleship.Battleship-task-build-generated-sources-annotationProcessor-java.main" target="15" />
+      <module name="Battleship.Battleship-task-build-generated-sources-headers-java.main" target="15" />
+      <module name="Battleship.Battleship-task-build-reports-tests.main" target="15" />
+      <module name="Battleship.Battleship-task-build-test-results.main" target="15" />
+      <module name="Battleship.Battleship-task-build-tmp.main" target="15" />
+      <module name="Battleship.Battleship-task-out.main" target="15" />
+      <module name="Battleship.Battleship-task.main" target="15" />
+      <module name="Battleship.Topics-Abstract_class-About_abstract_classes.main" target="15" />
+      <module name="Battleship.Topics-Abstract_class-IntBinaryOperation.main" target="15" />
+      <module name="Battleship.Topics-Abstract_class-Theory.main" target="15" />
+      <module name="Battleship.Topics-Array_exceptions-A_line_that_throws_an_exception.main" target="15" />
+      <module name="Battleship.Topics-Array_exceptions-Calculate_Square.main" target="15" />
+      <module name="Battleship.Topics-Array_exceptions-Theory.main" target="15" />
+      <module name="Battleship.Topics-Declaring_a_method-Choose_a_return_type.main" target="15" />
+      <module name="Battleship.Topics-Declaring_a_method-Greatest_common_divisor.main" target="15" />
+      <module name="Battleship.Topics-Declaring_a_method-Syntactically_correct_declarations.main" target="15" />
+      <module name="Battleship.Topics-Declaring_a_method-Theory.main" target="15" />
+      <module name="Battleship.Topics-Declaring_a_method-Vowel_or_not.main" target="15" />
+      <module name="Battleship.Topics-Getters_and_setters-Account.main" target="15" />
+      <module name="Battleship.Topics-Getters_and_setters-Book.main" target="15" />
+      <module name="Battleship.Topics-Getters_and_setters-Getting_the_fullname.main" target="15" />
+      <module name="Battleship.Topics-Getters_and_setters-Theory.main" target="15" />
+      <module name="Battleship.Topics-Hiding_and_overriding-Shapes_area.main" target="15" />
+      <module name="Battleship.Topics-Hiding_and_overriding-Theory.main" target="15" />
+      <module name="Battleship.Topics-Hierarchy_of_exceptions-Base_class.main" target="15" />
+      <module name="Battleship.Topics-Hierarchy_of_exceptions-Theory.main" target="15" />
+      <module name="Battleship.Topics-Input_streams-Convert_to_bytes.main" target="15" />
+      <module name="Battleship.Topics-Input_streams-Count_words.main" target="15" />
+      <module name="Battleship.Topics-Input_streams-FileInputStream_class.main" target="15" />
+      <module name="Battleship.Topics-Input_streams-Theory.main" target="15" />
+      <module name="Battleship.Topics-Overloading-Overloading_methods.main" target="15" />
+      <module name="Battleship.Topics-Overloading-Theory.main" target="15" />
+      <module name="Battleship.Topics-Polymorphism-Publication_and_its_subclasses.main" target="15" />
+      <module name="Battleship.Topics-Polymorphism-The_time_of_overloading.main" target="15" />
+      <module name="Battleship.Topics-Polymorphism-Theory.main" target="15" />
+      <module name="Battleship.Topics-Static_members-Applying_the_static_keyword.main" target="15" />
+      <module name="Battleship.Topics-Static_members-Detail_manufacturing.main" target="15" />
+      <module name="Battleship.Topics-Static_members-Theory.main" target="15" />
+      <module name="Battleship.Topics-Static_members-Too_many_cats.main" target="15" />
+      <module name="Battleship.Topics-Throwing_exceptions-Theory.main" target="15" />
+      <module name="Battleship.Topics-Throwing_exceptions-Throw_an_IOException.main" target="15" />
+      <module name="Battleship.util.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
